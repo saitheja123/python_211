@@ -4,4 +4,4 @@ sum=a+b
 print sum
 c=10
 d=20
-return c*d
+print (c*d)
