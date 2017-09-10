@@ -5,3 +5,5 @@ msrinu771@gmail.com
 a=10
 b=20
 c=a*b
+d=c+b
+e=d*a
